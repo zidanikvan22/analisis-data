@@ -1,0 +1,8 @@
+library yang digunakan dalam proses analisis data:
+
+streamlit==1.43.0
+Babel==2.17.0
+pandas==2.2.3
+seaborn==0.13.2
+matplotlib==3.10.1
+numpy==2.2.3
